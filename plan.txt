@@ -1,0 +1,4 @@
+Features:
+Navbar
+Showcase products and services
+Rates
